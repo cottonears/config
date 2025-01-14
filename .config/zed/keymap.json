@@ -1,0 +1,8 @@
+// To see the default key bindings run `zed: open default keymap`
+[
+  {
+    "bindings": {
+      "ctrl-'": "terminal_panel::ToggleFocus"
+    }
+  }
+]

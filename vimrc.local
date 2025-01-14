@@ -1,0 +1,10 @@
+"vim config file; store in /etc/vim/vimrc.local"
+"colorschemes should be installed in /usr/share/vim/vim90/colors"
+
+colorscheme catppuccin_macchiato
+set tabstop=4
+set autoindent
+set number
+set cursorline
+set scrolloff=2
+set termguicolors
