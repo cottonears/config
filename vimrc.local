@@ -1,5 +1,5 @@
 "vim config file; store in /etc/vim/vimrc.local"
-"colorschemes should be installed in /usr/share/vim/vim90/colors"
+"colorschemes should be installed in /usr/share/vim/vim91/colors"
 
 colorscheme catppuccin_macchiato
 set tabstop=4
