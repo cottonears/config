@@ -2,7 +2,7 @@
 
 # install 0xProto nerd-font
 wget https://github.com/ryanoasis/nerd-fonts/releases/latest/download/0xProto.zip
-mkdir -p $HOME/.fonts && (unzip -f 0xProto.zip $HOME/.fonts)
+mkdir -p $HOME/.fonts && (unzip 0xProto.zip -d $HOME/.fonts)
 fc-cache -fv
 rm 0XProto.zip
 
